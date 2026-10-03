@@ -2,43 +2,43 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.60.0",
-  "published_at": "2026-10-03T20:21:56+00:00",
+  "version": "0.3.61.0",
+  "published_at": "2026-10-03T22:42:09+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.60.0/packages/LocalGen-0.3.60.0.zip",
-    "size": 186029,
-    "sha256": "8fec5f335ad53c6876f92b148b7105916fa1593bd7d8795eb5a0e2957a803c62"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.61.0/packages/LocalGen-0.3.61.0.zip",
+    "size": 186313,
+    "sha256": "9677a1d4e74bec0615087cedbbedd73c08f11612f9684f741659ac9a727d53c3"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "eccafee22a3a9dfa1f8d6bfeb72f9c5d6b3738a26efa0d77265aa1defc8a7ce6"
+      "sha256": "1e6e2c114aaec8d354d3d9acd1761e6fe534a4c4460fb50a84732b90712ff263"
     },
     {
       "path": "App/frontend/app.js",
-      "size": 209820,
-      "sha256": "23f800d5ddc047899951c924f29c752c9786a3c0b63bd31feb30142001d53118"
+      "size": 210388,
+      "sha256": "3a98d6d8e902c76b55e812060d2a49cab3760800f70e2bd4eadc67cf956c9235"
     },
     {
       "path": "App/frontend/index.html",
-      "size": 79038,
-      "sha256": "43c9001446531ab3b63ea83642c79a189b7e44d7fe6d4a241ef9cfc5ed0f6f78"
+      "size": 79030,
+      "sha256": "d519859ea0ed99f4a2c644f1fe166463b2426029747603c55435fc2c6c8ec6f1"
     },
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "f34b02174ad7835148f4960d46a3bbe562bdf3c70239f49a7ddbde1695c917b4"
+      "sha256": "5b9c29812959df64d3ef8e19aac6eb6853c45f1dbc8d7d6be8429e743163baf1"
     },
     {
       "path": "App/localgen_app.py",
-      "size": 80899,
-      "sha256": "805145415f1b4f57dc698fbdefce004ac95d2c32c245ba34669bd1c3baa80262"
+      "size": 81449,
+      "sha256": "00f57ff7ab374a82e77962328eb925ed5a444349fd20ac9a80d98dfcf0f14125"
     },
     {
       "path": "App/localgen_service.py",
       "size": 234639,
-      "sha256": "6755a8182c0d2e2ba8136ecff9ef8f5dc9e5e216de51fe57bdbbabc1fe619eee"
+      "sha256": "1e4cc494f2cf895a98c17adebc1c9ee7f5ab9b6ab7bf4a47183db1ba8b1c28e8"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.60 animateSeconds numeric normalization hotfix",
+  "notes": "LocalGen 0.3.61 boolean preferences normalization hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "26UNCgS1mHYTRszxithqvn7ZLwFPPq/2bKIIUeFtR+Ua017vyYOHDesJFY+5vlJANwKL1ji2NFfIL+eQyteZCQ=="
+    "value": "RegYzqX52o/apoaByO+rAN68DcpPpBZjzzEZQCk7HcfsqK/3dYZV0D5MpCghD5O/BMX30lJNCVMt2leiKnZWBA=="
   }
 }
