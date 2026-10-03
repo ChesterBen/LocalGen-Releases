@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.56.0",
-  "published_at": "2026-10-03T18:41:49+00:00",
+  "version": "0.3.57.0",
+  "published_at": "2026-10-03T18:53:25+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.56.0/packages/LocalGen-0.3.56.0.zip",
-    "size": 185858,
-    "sha256": "76ef11f409b284865e909cb7f59d7d98d6877df6e27c74d10d41a993d26c7130"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.57.0/packages/LocalGen-0.3.57.0.zip",
+    "size": 185877,
+    "sha256": "05d427235b29dfd5a48cb4f98938caa53a3d9b48e4044dbf215f97daa263ba5f"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "b89378bc0cbbd086b825afa283701f22e7b867e30bf4cbaa4b23cf77f8b4fdf0"
+      "sha256": "e46959669fecd176276733a6755d33c83ab428c1a2e2c4c702092f76781b40dd"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,7 +28,7 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "4c0368097a57b2c2d561fbf59f707d7010bcb7e4cd56fa570767eb038db9c2db"
+      "sha256": "26b5efed8608584714ed7c5d72d98cba12d8af63ac7dc80f674b7fb1d439e4d8"
     },
     {
       "path": "App/localgen_app.py",
@@ -37,8 +37,8 @@
     },
     {
       "path": "App/localgen_service.py",
-      "size": 234370,
-      "sha256": "02b5f68b19a4910ee6c7d6fa784a0444f9d6ac9097edf55cbdbdff9670123388"
+      "size": 234639,
+      "sha256": "c614330bbc0e1acb3cf0086e811854a0a902e518488009a1ce72da7661deb51c"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.56 profile import element validation hotfix",
+  "notes": "LocalGen 0.3.57 LocalGen-only delete boundary hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "EOYmEoqiL9oy7KbbSh+lPWS8lMXeGEmbRXj0TWUv6sorFg8DqzCxSkZ5kP7TLLk1Z1zUbvRAv9a52iRsuVYZBA=="
+    "value": "r7hLHs5IZ6ADAao9DpB9V+wLF8X4TZ6iG5X+Q+LvtSNNfb5lCopLPV0Uj7bcXG4EByhTGqGzsXUXVz/Cyk9SAQ=="
   }
 }
