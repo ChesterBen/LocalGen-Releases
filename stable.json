@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.55.0",
-  "published_at": "2026-10-03T18:06:10+00:00",
+  "version": "0.3.56.0",
+  "published_at": "2026-10-03T18:41:49+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.55.0/packages/LocalGen-0.3.55.0.zip",
-    "size": 185805,
-    "sha256": "4ddc0812762b5a6bd27c586a9b953edd3801ce7fd408f515d709aff2b35eb881"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.56.0/packages/LocalGen-0.3.56.0.zip",
+    "size": 185858,
+    "sha256": "76ef11f409b284865e909cb7f59d7d98d6877df6e27c74d10d41a993d26c7130"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "531747516e92b5748d861117dc9a51b1b117404b22c4f7f076e740abf01ea692"
+      "sha256": "b89378bc0cbbd086b825afa283701f22e7b867e30bf4cbaa4b23cf77f8b4fdf0"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,17 +28,17 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "a7cbba64226340745b5be8d07a6bc401c455669f8d32774e6c4ecc1c80fda135"
+      "sha256": "4c0368097a57b2c2d561fbf59f707d7010bcb7e4cd56fa570767eb038db9c2db"
     },
     {
       "path": "App/localgen_app.py",
-      "size": 80199,
-      "sha256": "9562e1ef487aad30dd543bc756ca4f7ec07cc88e03b1dfa36ed9872d2bc27ea4"
+      "size": 80495,
+      "sha256": "549819fa6a6648824329f3e00e98ea139ebeb8d872c35fc3c5ac35fcd3ab298e"
     },
     {
       "path": "App/localgen_service.py",
       "size": 234370,
-      "sha256": "6c7181d22b0ffb5ad12c6dcaa5decae4df4cc033b679dcd14bd904e785bafe73"
+      "sha256": "02b5f68b19a4910ee6c7d6fa784a0444f9d6ac9097edf55cbdbdff9670123388"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.55 Save As same-path no-op hotfix",
+  "notes": "LocalGen 0.3.56 profile import element validation hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "P82bgMpwPhhE2TMcR9LFdz5iwhvSvNeIMGKoSnjzOZBqOjKe1MfaA/Ku8TWxrscgc5gK13PXffUhg073I5G9Dg=="
+    "value": "EOYmEoqiL9oy7KbbSh+lPWS8lMXeGEmbRXj0TWUv6sorFg8DqzCxSkZ5kP7TLLk1Z1zUbvRAv9a52iRsuVYZBA=="
   }
 }
