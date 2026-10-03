@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.52.0",
-  "published_at": "2026-10-03T17:00:11+00:00",
+  "version": "0.3.53.0",
+  "published_at": "2026-10-03T17:13:52+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.52.0/packages/LocalGen-0.3.52.0.zip",
-    "size": 185752,
-    "sha256": "451f6f4a104b3b98652f3c9a8e93880519e90db3883bbb47662df4450fadc69a"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.53.0/packages/LocalGen-0.3.53.0.zip",
+    "size": 185786,
+    "sha256": "b3be653193755ad5d7d7daf96c56fe9d3214bab3254c0bd45c7f08c23812b159"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "64ece57d7a6ec0bd6e081f79ab1cb55207313cf7fe78cb34d480e48ff91a880f"
+      "sha256": "cd8e830b79147c9c24d56f0200313541585d06fca96137e5195624a0b4497475"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,17 +28,17 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "a13e6b61defbc735935c3d3c1b5b2834e9663d16aaefa7214585fc8336b56ec0"
+      "sha256": "0cf159e17365b14f056f511276223ef5f8300c781d7e350f1850d97f09c7dc2b"
     },
     {
       "path": "App/localgen_app.py",
-      "size": 79917,
-      "sha256": "c043b449f3ed2d1c5ec331ebd4a9f3ed9799e988d39af9040dce9bd1651644d0"
+      "size": 80002,
+      "sha256": "8c8bf2ff0e3cd0d87ea3bbf98be871aef4b74935d2912e20050649abb325d708"
     },
     {
       "path": "App/localgen_service.py",
       "size": 234370,
-      "sha256": "ec5223f069134366d25a500def24d657d98f7d573d8e70bad64487edadfed3d5"
+      "sha256": "4482e0d09dc5e62b6a4b45f7cf699cedc2cd95203d1ab650cc5f6b39bc801ef9"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.52 Structure Control strength persistence hotfix",
+  "notes": "LocalGen 0.3.53 profile export SAVE tuple-path hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "eBAw/HwbQogqd5BBERVyOnHqq5kg0aciA5yOEtiV0Y16zQwoH/OtvnugXmHWT7j7umPGlx+W9cx4RQ5MsMIJCQ=="
+    "value": "huYjx20KPkaD6Za8MX+ZE017NKYvl+tdvGdnJp5ffElpRFpOstUH7Mf/kZdks7E4EaXM6ejBszlWrqrj05f/Cw=="
   }
 }
