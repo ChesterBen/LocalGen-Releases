@@ -2,33 +2,33 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.50.0",
-  "published_at": "2026-10-03T15:09:35+00:00",
+  "version": "0.3.51.0",
+  "published_at": "2026-10-03T16:48:33+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.50.0/packages/LocalGen-0.3.50.0.zip",
-    "size": 185632,
-    "sha256": "73b5f85b18f720591679edcaa9ac39377f03dc292357c676d501429c0712d2c9"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.51.0/packages/LocalGen-0.3.51.0.zip",
+    "size": 185722,
+    "sha256": "e04f541a8af36ef6abc35b9cf87371a43de09faad7aa21254e3f17f5783bc5ec"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "f0151ed96102ef7e38de0a118a21337e79e93a1d9fc6ea17ff98b5bdb101de39"
+      "sha256": "4cf9d0b825a987c9a020186d249248d5b394d80ca6691503b350d4f4e7350a18"
     },
     {
       "path": "App/frontend/app.js",
-      "size": 209044,
-      "sha256": "0f23a758b7d8a4fda9c31673909f1e5b2c6cfa8afba7b7bd872b54a6287c605f"
+      "size": 209265,
+      "sha256": "826f31335e86ee68bb76a6f692eb8e47fda6890f3f48fa7a2a25f9a2438d6df1"
     },
     {
       "path": "App/frontend/index.html",
-      "size": 79036,
-      "sha256": "50cbc20bba2112e4257fb0f42f92e88224e256b61ef77ea0bb740fb27f5cc74d"
+      "size": 79033,
+      "sha256": "9e6d37ddac0171d2e008fcbe6b8a66b295ab87320ee46718396e519b46434564"
     },
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "6014e3439b3366f1b673c9bc901df0f98b3fed1ff60ce2606c6be4e62cfdee2e"
+      "sha256": "6a613c292b680413c9b176d2c1f509a626105813a18b54cac3a1b9543c0fc02c"
     },
     {
       "path": "App/localgen_app.py",
@@ -38,7 +38,7 @@
     {
       "path": "App/localgen_service.py",
       "size": 234370,
-      "sha256": "8757bdd1a36400f0f1537e1c50327ffecfdc2a9503324eaf9b6260d236347ff4"
+      "sha256": "5b8c3a91dd4e7af42d5ae288c7e8392174b173fcc26da74d0fe9286b03b64d88"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.50 prompt-history modal control wiring hotfix",
+  "notes": "LocalGen 0.3.51 Ctrl+V text-entry focus guard hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "FHd9l6UZhY1bJCCBKk9fhjNVgAKImH9OhUbRiyrUT0zZIwdZp/FtHlnf03BNVwKfmFnQU/bz6D58D+JZMuBTDQ=="
+    "value": "mSBLmpg4j9XMdH9Ihh3FLSlh3jjXLzMAjBlA08Hj3Akr38s4fGjl5E5eepoZgWeQjWMF4Bof23ijmlfxIUqPBA=="
   }
 }
