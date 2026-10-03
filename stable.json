@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.48.0",
-  "published_at": "2026-10-03T10:41:18+00:00",
+  "version": "0.3.49.0",
+  "published_at": "2026-10-03T12:54:52+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.48.0/packages/LocalGen-0.3.48.0.zip",
-    "size": 185393,
-    "sha256": "e4744a0af59020964797b636a34d10bc5cda28ef4bd8fcb9a8b5a2c1844605ce"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.49.0/packages/LocalGen-0.3.49.0.zip",
+    "size": 185558,
+    "sha256": "bff843fc3f30f580026285821e323e5aee287abb46eabf5de1c1f2549e744bb4"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "d2d7281eba849ad34a0518119ab2705c1dc613f55be1bda6984ace7dee87db03"
+      "sha256": "02fb4325587985686b1161db0a70d287c569601f46736bb09d66d68d237c48f5"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,7 +28,7 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "2ce2ff8e687335bec6d75880117f63a77d91258f6e2b52d514a133eb8af7bb32"
+      "sha256": "709ce2028e05577e11c64fa0ddbcb4b35e427778a40bc13a64b17f5dd0474563"
     },
     {
       "path": "App/localgen_app.py",
@@ -37,8 +37,8 @@
     },
     {
       "path": "App/localgen_service.py",
-      "size": 234074,
-      "sha256": "5137adca54123dd634871b4abad30b49bd01a08593e671b577192f001733fa48"
+      "size": 234370,
+      "sha256": "d81167c491830477580e23d2cea1977c1e87d8638e732729afe356d8cd0bf18f"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.48 update-feed freshness hotfix",
+  "notes": "LocalGen 0.3.49 Russian adult-router false-positive hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "Yo4NaSCk60gthpwgz3ATuH+5YqGtlUIzjEcHBLvEombXqfkRPTraVDwk6Eh2oCq8FHMUyB0JvBzCpfrTB1nUBQ=="
+    "value": "FW4WPexe/dAYDhtk9FlDtNLsqRr3NPy/qe1IEmX0jQB1YBL/efZFXqHOOm6kOvpZFWTagwpKYW+y53278DHFAA=="
   }
 }
