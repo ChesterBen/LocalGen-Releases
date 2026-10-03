@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.54.0",
-  "published_at": "2026-10-03T17:56:18+00:00",
+  "version": "0.3.55.0",
+  "published_at": "2026-10-03T18:06:10+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.54.0/packages/LocalGen-0.3.54.0.zip",
-    "size": 185784,
-    "sha256": "ffdce336532b6a66a57463c9c9163995d516f7c8c502ea2e458caaef3884a09f"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.55.0/packages/LocalGen-0.3.55.0.zip",
+    "size": 185805,
+    "sha256": "4ddc0812762b5a6bd27c586a9b953edd3801ce7fd408f515d709aff2b35eb881"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "6fe13fcc64a91fc69ad52b72250637b19af030200c1249a53e646d1698e69d0e"
+      "sha256": "531747516e92b5748d861117dc9a51b1b117404b22c4f7f076e740abf01ea692"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,17 +28,17 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "66f2aedd1e34b21b55a81c27fc22002c5acbc4a24d0dc5cd45f993ee27124fea"
+      "sha256": "a7cbba64226340745b5be8d07a6bc401c455669f8d32774e6c4ecc1c80fda135"
     },
     {
       "path": "App/localgen_app.py",
-      "size": 80087,
-      "sha256": "e200fa03a663a313bd73ff906d245cccf677a41f3e9bee85bb63bbf04256c6af"
+      "size": 80199,
+      "sha256": "9562e1ef487aad30dd543bc756ca4f7ec07cc88e03b1dfa36ed9872d2bc27ea4"
     },
     {
       "path": "App/localgen_service.py",
       "size": 234370,
-      "sha256": "480fef0c24944910c0a44f04bc9e9728d8d482069e9a8c937a0fcf741fff1681"
+      "sha256": "6c7181d22b0ffb5ad12c6dcaa5decae4df4cc033b679dcd14bd904e785bafe73"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.54 dialog SAVE-path normalization hotfix",
+  "notes": "LocalGen 0.3.55 Save As same-path no-op hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "BSyMBkoHXRzr9x/ClDcmELFG8iohBd3Rwvum6lZi/6I3vL0r1eCfiT1Lu72zRYj1ovO8tFHgj8JwSFf1ez8FAw=="
+    "value": "P82bgMpwPhhE2TMcR9LFdz5iwhvSvNeIMGKoSnjzOZBqOjKe1MfaA/Ku8TWxrscgc5gK13PXffUhg073I5G9Dg=="
   }
 }
