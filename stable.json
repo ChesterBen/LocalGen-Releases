@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.47.0",
-  "published_at": "2026-10-03T09:31:16+00:00",
+  "version": "0.3.48.0",
+  "published_at": "2026-10-03T10:41:18+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.47.0/packages/LocalGen-0.3.47.0.zip",
-    "size": 185103,
-    "sha256": "37f1c2046dec52fd5319baa9ca13384ae41281c72dd9e546e44caf77eb2f2897"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.48.0/packages/LocalGen-0.3.48.0.zip",
+    "size": 185393,
+    "sha256": "e4744a0af59020964797b636a34d10bc5cda28ef4bd8fcb9a8b5a2c1844605ce"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "8eded736bbcbe69a5681e42248f61c1b656e9ea09f596d803ba22b462e8d515b"
+      "sha256": "d2d7281eba849ad34a0518119ab2705c1dc613f55be1bda6984ace7dee87db03"
     },
     {
       "path": "App/frontend/app.js",
@@ -22,13 +22,13 @@
     },
     {
       "path": "App/frontend/index.html",
-      "size": 79037,
-      "sha256": "07cea64c107a2d31595a57a823e47d520903193c8f45ab63311c4ceb5d81a55f"
+      "size": 79040,
+      "sha256": "6a976e53d42b2b85c13bcac806647f04b446fc30fcbf425f0358f3f016723adf"
     },
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "ddd98fbe74eb1da1f6b2113ab3de22ac84f1fd665a27e16116f934317e07e025"
+      "sha256": "2ce2ff8e687335bec6d75880117f63a77d91258f6e2b52d514a133eb8af7bb32"
     },
     {
       "path": "App/localgen_app.py",
@@ -38,12 +38,12 @@
     {
       "path": "App/localgen_service.py",
       "size": 234074,
-      "sha256": "6d452324416a18b7a64b7d325fd39031b2f83a234076b67c31fb2d4fecff7246"
+      "sha256": "5137adca54123dd634871b4abad30b49bd01a08593e671b577192f001733fa48"
     },
     {
       "path": "App/localgen_update.py",
-      "size": 22025,
-      "sha256": "dbe63de6bb6c97c734e474062d8c00221a2379f9d668b0377234eec2fb8d5450"
+      "size": 23237,
+      "sha256": "5e0b5404a73ddd12f8bed572b34475396235b154785c6550505741cd043f97d5"
     },
     {
       "path": "App/localgen_update_core.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.47 first real self-update canary",
+  "notes": "LocalGen 0.3.48 update-feed freshness hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "j5NRCtDtG9apQ598hl9k2CHdbwKEVwerd44czqULs9Z5SrYA9kRB/vqjlYTMprtIxjvAjoVOAjRiO9r5aosDBg=="
+    "value": "Yo4NaSCk60gthpwgz3ATuH+5YqGtlUIzjEcHBLvEombXqfkRPTraVDwk6Eh2oCq8FHMUyB0JvBzCpfrTB1nUBQ=="
   }
 }
