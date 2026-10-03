@@ -2,33 +2,33 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.49.0",
-  "published_at": "2026-10-03T12:54:52+00:00",
+  "version": "0.3.50.0",
+  "published_at": "2026-10-03T15:09:35+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.49.0/packages/LocalGen-0.3.49.0.zip",
-    "size": 185558,
-    "sha256": "bff843fc3f30f580026285821e323e5aee287abb46eabf5de1c1f2549e744bb4"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.50.0/packages/LocalGen-0.3.50.0.zip",
+    "size": 185632,
+    "sha256": "73b5f85b18f720591679edcaa9ac39377f03dc292357c676d501429c0712d2c9"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 37376,
-      "sha256": "02fb4325587985686b1161db0a70d287c569601f46736bb09d66d68d237c48f5"
+      "sha256": "f0151ed96102ef7e38de0a118a21337e79e93a1d9fc6ea17ff98b5bdb101de39"
     },
     {
       "path": "App/frontend/app.js",
-      "size": 208518,
-      "sha256": "e3feef2ed938f8aa5c76a645a38a852b241471f2cef4c1b787a44f439f4caadb"
+      "size": 209044,
+      "sha256": "0f23a758b7d8a4fda9c31673909f1e5b2c6cfa8afba7b7bd872b54a6287c605f"
     },
     {
       "path": "App/frontend/index.html",
-      "size": 79040,
-      "sha256": "6a976e53d42b2b85c13bcac806647f04b446fc30fcbf425f0358f3f016723adf"
+      "size": 79036,
+      "sha256": "50cbc20bba2112e4257fb0f42f92e88224e256b61ef77ea0bb740fb27f5cc74d"
     },
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "709ce2028e05577e11c64fa0ddbcb4b35e427778a40bc13a64b17f5dd0474563"
+      "sha256": "6014e3439b3366f1b673c9bc901df0f98b3fed1ff60ce2606c6be4e62cfdee2e"
     },
     {
       "path": "App/localgen_app.py",
@@ -38,7 +38,7 @@
     {
       "path": "App/localgen_service.py",
       "size": 234370,
-      "sha256": "d81167c491830477580e23d2cea1977c1e87d8638e732729afe356d8cd0bf18f"
+      "sha256": "8757bdd1a36400f0f1537e1c50327ffecfdc2a9503324eaf9b6260d236347ff4"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.49 Russian adult-router false-positive hotfix",
+  "notes": "LocalGen 0.3.50 prompt-history modal control wiring hotfix",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "FW4WPexe/dAYDhtk9FlDtNLsqRr3NPy/qe1IEmX0jQB1YBL/efZFXqHOOm6kOvpZFWTagwpKYW+y53278DHFAA=="
+    "value": "FHd9l6UZhY1bJCCBKk9fhjNVgAKImH9OhUbRiyrUT0zZIwdZp/FtHlnf03BNVwKfmFnQU/bz6D58D+JZMuBTDQ=="
   }
 }
