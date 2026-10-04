@@ -2,18 +2,18 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.66.0",
-  "published_at": "2026-10-04T10:53:21+00:00",
+  "version": "0.3.67.0",
+  "published_at": "2026-10-04T12:15:51+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.66.0/packages/LocalGen-0.3.66.0.zip",
-    "size": 189393,
-    "sha256": "a1a46ad37a023993459a1464041130fc9ee8162c916f7c67cf78ffab87fbd65a"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.67.0/packages/LocalGen-0.3.67.0.zip",
+    "size": 158559,
+    "sha256": "1d37ac343121f610da75bbcbc42e50b6cf629d13fe404f5e63c91833a87b432b"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
-      "size": 37376,
-      "sha256": "2c9b21f8ad0bcff78f8b06e64b6c0269d35f592128395665519c7a137d9fcdee"
+      "size": 6144,
+      "sha256": "bd38e379e59fbcbe6683045b78e5bc8fd3eea089361ab8ee465582417702f905"
     },
     {
       "path": "App/frontend/app.js",
@@ -28,7 +28,7 @@
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "c192321e65479d95093230ab7508e4e2f44c0c3ea30f7881d8a9f0edcc84a39c"
+      "sha256": "eceb116cb5cc74a77e6de538687768362cef5c0735d2373a069ef7369c710b84"
     },
     {
       "path": "App/localgen_app.py",
@@ -37,8 +37,8 @@
     },
     {
       "path": "App/localgen_service.py",
-      "size": 238302,
-      "sha256": "16445a0941385df0ccb75884bd61e4c1cf4d4924b2b41a9946f51d96a9fc5a20"
+      "size": 239163,
+      "sha256": "65ea6bb5ca0490dffe0484d33bb217cd5a72004465a7a45feb1cbcd42bbae94d"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.66 P61 Adult Edit reference roles v2",
+  "notes": "LocalGen 0.3.67 P61 NoobAI positive conditioning v6",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "ePZO2fXcqoD0V0Vpym4m1JylMKdSsV4MspfkIrn6J1N0qH9ImSm9K55kk3h9qntTx60TlhqEIj0pxuaHGNSnCw=="
+    "value": "oJPg4aFVeV+/p3ef/FHlEFuCQhqtk6outSpombPUPD0UMfJR8HzbZEKf6xdwxDIkaDK4iSbXR4FpAySpAuVfAA=="
   }
 }
