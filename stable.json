@@ -2,43 +2,43 @@
   "format": "localgen-update",
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.67.0",
-  "published_at": "2026-10-04T12:15:51+00:00",
+  "version": "0.3.68.0",
+  "published_at": "2026-10-05T11:45:08+00:00",
   "package": {
-    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.67.0/packages/LocalGen-0.3.67.0.zip",
-    "size": 158559,
-    "sha256": "1d37ac343121f610da75bbcbc42e50b6cf629d13fe404f5e63c91833a87b432b"
+    "url": "https://raw.githubusercontent.com/ChesterBen/LocalGen-Releases/v0.3.68.0/packages/LocalGen-0.3.68.0.zip",
+    "size": 159500,
+    "sha256": "aea3d632457d725373b8a185b978174349bcd64f5edfe4c64ebd57a2aa977932"
   },
   "files": [
     {
       "path": "App/LocalGen.exe",
       "size": 6144,
-      "sha256": "bd38e379e59fbcbe6683045b78e5bc8fd3eea089361ab8ee465582417702f905"
+      "sha256": "f5a0606d8ad68c7dc0fcf39e324e029f31fbf67c5ebb40dc97ee1268d57ee3d7"
     },
     {
       "path": "App/frontend/app.js",
-      "size": 215926,
-      "sha256": "c6ab655c4f02c46da952b96fbc8a7e0bda8834ec600dc430668c488ef6aef7b5"
+      "size": 217269,
+      "sha256": "4eeb617c0ff15b78fa884967f542f50402b027c35d0576ba24861c544669a088"
     },
     {
       "path": "App/frontend/index.html",
-      "size": 81197,
-      "sha256": "32cab6b3695bf134fa7e89bbecac6c525d8f35f08b1958f4086bda55c0f008ad"
+      "size": 82082,
+      "sha256": "c57962181e895ff3bfc96946402cf45cf3ded08253de8accd02a139a1c342e8f"
     },
     {
       "path": "App/launcher.cs",
       "size": 2798,
-      "sha256": "eceb116cb5cc74a77e6de538687768362cef5c0735d2373a069ef7369c710b84"
+      "sha256": "c0d1bf80300a4ffe6ba13bdfe9cc84336a5cfc96f25191ea1ed8d4b5ccc7ac84"
     },
     {
       "path": "App/localgen_app.py",
-      "size": 83374,
-      "sha256": "f1de4d36fb9f7905add06496acb4d6b5a30d2179f47744a91ca1454997f9ce00"
+      "size": 83381,
+      "sha256": "0f8d3547af72f6e6500512086deee0740cfc9c6754bc5bb34fa5eddc9608bbfc"
     },
     {
       "path": "App/localgen_service.py",
-      "size": 239163,
-      "sha256": "65ea6bb5ca0490dffe0484d33bb217cd5a72004465a7a45feb1cbcd42bbae94d"
+      "size": 240455,
+      "sha256": "8a63a28c00f68acf68a96e918c0cb90b9feb67999a929a5fb24daff806ca3a7c"
     },
     {
       "path": "App/localgen_update.py",
@@ -56,10 +56,10 @@
       "sha256": "c5e601a3e7f75a106015f2c40f2024c415bf44d0704e4ba57e65034bac2bbee7"
     }
   ],
-  "notes": "LocalGen 0.3.67 P61 NoobAI positive conditioning v6",
+  "notes": "LocalGen 0.3.68 P62 Real HAT Sharp Photo x4",
   "signature": {
     "algorithm": "ed25519",
     "key_id": "localgen-prod-2026-01",
-    "value": "oJPg4aFVeV+/p3ef/FHlEFuCQhqtk6outSpombPUPD0UMfJR8HzbZEKf6xdwxDIkaDK4iSbXR4FpAySpAuVfAA=="
+    "value": "ebS8/+0kYFFqE3B0Y4kEHBQBmOgBvcwXfIIeEQMk754fv3StpugtgXoNuHj73m9NhsQ6BbVUR/I7ynscEFfWBQ=="
   }
 }
